@@ -1,4 +1,4 @@
-![Abbey_Road](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
+![Beatles](https://cdn.pixabay.com/photo/2016/08/25/16/18/beatles-1620024_1280.jpg)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
