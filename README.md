@@ -1,5 +1,3 @@
-![Beatles Color Logo](https://i.imgur.com/2M3n4pT.png)
-
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
 Data: [Data da entrega]
@@ -34,6 +32,7 @@ README.md
 # 🎯 Objetivos
 
 🎵 Musicológico
+![Musicológico](https://img.shields.io/badge/🎵-Musicológico-blueviolet" alt="Musicológico")
 
 - Mapear a evolução estilística da banda
 - Analisar inovações técnicas em estúdio
