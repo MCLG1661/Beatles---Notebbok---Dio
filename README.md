@@ -43,7 +43,7 @@ README.md
 - Fornecer contexto histórico preciso
 - Facilitar o estudo cronológico
 
-🎨 Cultural
+![Cultural](https://img.shields.io/badge/🎨-Cultural-important)
 
 - Analisar o impacto nos anos 60
 - Documentar a influência em gerações posteriores
