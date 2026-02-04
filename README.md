@@ -7,4 +7,4 @@ O objetivo é uma análise completa da trajetória, evolução musical e impacto
 ![NotebookLM-Google](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DIO-Desafio](https://img.shields.io/badge/DIO-Desafio-8A2BE2?style=for-the-badge)
 
-Os Beatles não foram apenas uma banda; foram um fenômeno cultural que redefiniu a música popular no século XX.
+# Os Beatles não foram apenas uma banda; foram um fenômeno cultural que redefiniu a música popular no século XX.
