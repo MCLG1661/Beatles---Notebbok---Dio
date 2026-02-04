@@ -31,14 +31,13 @@ README.md
 
 # 🎯 Objetivos
 
-🎵 Musicológico
 ![Musicológico](https://img.shields.io/badge/🎵-Musicológico-blueviolet)
 
 - Mapear a evolução estilística da banda
 - Analisar inovações técnicas em estúdio
 - Documentar o processo criativo Lennon-McCartney
 
-📚 Educacional
+![Educacional](https://img.shields.io/badge/📚-Educacional-success)
 
 - Criar material de referência estruturado
 - Fornecer contexto histórico preciso
