@@ -1,10 +1,4 @@
-### 🎸 Evolução dos Beatles (1963-1970)
-
-| 1963 - Início | 1965 - Transição | 1967 - Revolução | 1969 - Maturidade |
-|:-------------:|:----------------:|:----------------:|:-----------------:|
- <![The_Beatles_-_Please_Please_Me](https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Please_Please_Me.jpg) | ![Rubber_Soul](https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg) | ![Sgt._Peppers Lonely_Hearts_Club_Band](https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg)> | ![Abbey_Road](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
-| **Please Please Me** | **Rubber Soul** | **Sgt. Pepper's** | **Abbey Road** |
-
+![Abbey_Road](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
