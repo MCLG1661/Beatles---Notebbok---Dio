@@ -10,20 +10,17 @@ O objetivo é uma análise completa da trajetória, evolução musical e impacto
 # Os Beatles não foram apenas uma banda; foram um fenômeno cultural que redefiniu a música popular no século XX !
 
 # 📁 Estrutura de Arquivos
-text
-beatles-notebook-dio/
-├── README.md                      # Este arquivo
-├── biografia.md                   # Biografia completa
-├── discografia.md                 # Discografia analítica
-├── analise-musical.md             # Análises técnicas
-├── impacto-cultural.md            # Legado e influência
-├── curiosidades.md                # Fatos interessantes
-├── linha-do-tempo.md              # Cronologia interativa
-├── referencias.md                 # Fontes e bibliografia
-└── assets/                        # Imagens e recursos
-    ├── capas-albuns/
-    ├── fotos-historicas/
-    └── diagramas/
+
+README.md
+├── # Beatles Analysis - Desafio DIO
+├── ## Descrição
+├── ## Conteúdo
+│   ├── 1. Biografia Básica
+│   ├── 2. Discografia Completa  
+│   ├── 3. Análise Musical
+│   └── 4. Impacto Cultural
+└── ## Como Foi Criado
+    └── Usando NotebookLM do Google
 
 # 🎯 Objetivos
 
@@ -61,15 +58,7 @@ beatles-notebook-dio/
 - Evolução musical álbum por álbum
 - Singles e EPs essenciais
 
-3. 🔍 Análise Musical
-graph LR
-    A[Rock'n'Roll Básico] --> B[Pop Melódico]
-    B --> C[Folk Rock]
-    C --> D[Psicodelia]
-    D --> E[Rock Progressivo]
-    E --> F[Ecletismo Total]
-
-4. 🌍 Impacto Cultural
+3. 🌍 Impacto Cultural
 
 - Revolução na indústria musical
 - Influência na moda e comportamento
