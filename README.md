@@ -1,4 +1,6 @@
 # The Beatles: Revolução Musical
+# Bootcamp: [Nome do Bootcamp da DIO]  
+# Data: [Data da entrega]
 
 Este projeto foi desenvolvido como parte do desafio da DIO (Digital Innovation One) utilizando o Google NotebookLM como ferramenta principal de pesquisa.
 O objetivo é uma análise completa da trajetória, evolução musical e impacto cultural da banda mais influente da história.
