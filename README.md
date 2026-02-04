@@ -1,4 +1,4 @@
-![Beatles-Emblema](https://logosmarcas.net/wp-content/uploads/2020/07/Beatles-Emblema.jpg)
+![Beatles](https://logosmarcas.net/wp-content/uploads/2020/07/Beatles-Emblema.jpg)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
