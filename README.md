@@ -1,6 +1,7 @@
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
 Data: [Data da entrega]
+
 NotebookLM: https://notebooklm.google.com/notebook/35cc033d-69d7-4de5-b58d-da24207b39b7
 
 Este projeto foi desenvolvido como parte do desafio da DIO (Digital Innovation One) utilizando o Google NotebookLM como ferramenta principal de pesquisa.
