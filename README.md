@@ -1,4 +1,7 @@
-![The Beatles Banner](https://i.imgur.com/2JZ4Q4h.jpeg)
+img src="https://i.imgur.com/2JZ4Q4h.jpeg" 
+     width="500" 
+     style="border-radius: 10px; border: 3px solid #333; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"
+     alt="The Beatles">
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
