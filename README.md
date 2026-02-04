@@ -32,7 +32,7 @@ README.md
 # 🎯 Objetivos
 
 🎵 Musicológico
-![Musicológico](https://img.shields.io/badge/🎵-Musicológico-blueviolet" alt="Musicológico")
+![Musicológico](https://img.shields.io/badge/🎵-Musicológico-blueviolet)
 
 - Mapear a evolução estilística da banda
 - Analisar inovações técnicas em estúdio
