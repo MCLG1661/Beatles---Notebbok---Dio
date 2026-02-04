@@ -1,4 +1,4 @@
-![The Beatles](https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Please_Please_Me.jpg)
+![Beatles-Emblema](https://logosmarcas.net/wp-content/uploads/2020/07/Beatles-Emblema.jpg)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
