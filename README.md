@@ -1,7 +1,4 @@
-img src="https://i.imgur.com/2JZ4Q4h.jpeg" 
-     width="500" 
-     style="border-radius: 10px; border: 3px solid #333; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"
-     alt="The Beatles">
+![Beatles Logo Transparent](https://i.imgur.com/rqBQWY8.png)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
