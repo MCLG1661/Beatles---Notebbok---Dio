@@ -2,7 +2,7 @@
 
 | 1963 - Início | 1965 - Transição | 1967 - Revolução | 1969 - Maturidade |
 |:-------------:|:----------------:|:----------------:|:-----------------:|
-| <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Please_Please_Me.jpg" width="120"> | <img src="https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" width="120"> | <img src="https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" width="120"> | <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg" width="120"> |
+ <![The_Beatles_-_Please_Please_Me.]("https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Please_Please_Me.jpg" width="120">) | ![Rubber_Soul.jpg]("https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" width="120">) | ![Sgt._Pepper%27s_Lonely_Hearts_Club_Band]("https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" width="120")> | ![Sgt._Pepper%27s_Lonely_Hearts_Club_Band]("https://upload.wikimedia.org/wikipedia/en/4/42/Cjpg" width="120">) |
 | **Please Please Me** | **Rubber Soul** | **Sgt. Pepper's** | **Abbey Road** |
 
 
