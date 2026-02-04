@@ -1,4 +1,4 @@
-![Beatles](https://cdn.pixabay.com/photo/2016/08/25/16/18/beatles-1620024_1280.jpg)
+![The Beatles Banner](https://i.imgur.com/2JZ4Q4h.jpeg)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
