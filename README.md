@@ -3,10 +3,10 @@
 Este projeto foi desenvolvido como parte do desafio da DIO (Digital Innovation One) utilizando o Google NotebookLM como ferramenta principal de pesquisa.
 O objetivo é uma análise completa da trajetória, evolução musical e impacto cultural da banda mais influente da história.
 
+![The Beatles](https://img.shields.io/badge/The_Beatles-1962--1970-FF0000?style=for-the-badge&logo)
 ![DIO-Desafio](https://img.shields.io/badge/DIO-Desafio-8A2BE2?style=for-the-badge)
 ![NotebookLM-Google](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/PLATAFORMA-GitHub-black)
-![The Beatles](https://img.shields.io/badge/The_Beatles-1962--1970-FF0000?style=for-the-badge&logo=apple&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-green)
 
 
