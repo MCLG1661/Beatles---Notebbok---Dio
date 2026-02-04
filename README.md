@@ -1,4 +1,4 @@
-[![Beatles](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQWM3j-cskGJI6GUTpRua5QZQJb6US1R2oQ&s)
+![Beatles](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQWM3j-cskGJI6GUTpRua5QZQJb6US1R2oQ&s)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
