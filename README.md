@@ -1,3 +1,5 @@
+![The Beatles](https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Please_Please_Me.jpg)
+
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
 Data: [Data da entrega]
