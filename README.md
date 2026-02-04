@@ -1,4 +1,4 @@
-![Beatles Logo Transparent](https://i.imgur.com/rqBQWY8.png)
+![Beatles Color Logo](https://i.imgur.com/2M3n4pT.png)
 
 # The Beatles: Revolução Musical
 Bootcamp: [Nome do Bootcamp da DIO]  
